@@ -4,3 +4,7 @@
 \.data/tokens/
 
 \.data/users/
+
+\.data/checks/
+
+\.logs/
